@@ -2,6 +2,8 @@
 
  "Student Athlete & Finance Student"
 
+*Resume, Click [here](file:///C:/Users/coope/Downloads/Resume.pdf)
+
 ---
 
 ### 🎓 About Me
